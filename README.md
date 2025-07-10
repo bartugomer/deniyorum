@@ -18,4 +18,4 @@ I wanted to practice Python and learn about string manipulation and loops. Still
 
 
 ```bash
-python int_to_roman.py
+python deneme.py
